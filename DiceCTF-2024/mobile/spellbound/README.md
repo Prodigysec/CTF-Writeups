@@ -8,3 +8,6 @@ Authors: orion, hpmv
 
 ## Challenge apks
 [spellbound.zip](./Downloads/spellbound.zip)
+
+## Solution
+[dicectfAttacker](./dicectfAttacker/)
